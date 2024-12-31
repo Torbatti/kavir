@@ -1,7 +1,7 @@
 const std = @import("std");
 const assert = std.debug.assert;
 
-const kavir = @import("kavir");
+const shen = @import("shen");
 
 const cli = @import("cli.zig");
 
