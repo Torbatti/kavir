@@ -1,0 +1,11 @@
+# zig tooling related
+.zig-cache
+zig-out
+
+# lib
+/lib/sqlite3.h
+/lib/sqlite3.c
+
+# env variables
+.env
+.env.local
