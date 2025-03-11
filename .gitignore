@@ -1,0 +1,7 @@
+# zig build system
+zig-out
+.zig-cache
+
+# lib
+/lib/sqlite3.c
+/lib/sqlite3.h
